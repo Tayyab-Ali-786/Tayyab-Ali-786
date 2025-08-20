@@ -5,9 +5,23 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🛒 [Amazon Front Page Clone](https://amazom-front-end.netlify.app/)  
-- 📊 [Admin Dashboard](https://papaya-capybara-eb48e0.netlify.app/)  
-- 🐔 Chicken Invaders Game *(In progress)*  
+
+- 🛒 [Cartify – E-commerce Store](https://store-cartify.netlify.app/)  
+- 📊 [Admin Dashboard](https://tayyab-admin-dashboard.netlify.app/)  
+- 🛍️ [Amazon Front Page Clone](https://amazom-front-end.netlify.app/)  
+- 🐔 Chicken Invaders Game *(Completed)*  
+
+---
+
+## 🛠️ Skills  
+
+### ⚡ Front-End Development  
+- ⚛️ React.js  
+- 📘 TypeScript  
+- ⏭️ Next.js  
+
+### 🖥️ Programming Foundations  
+- 🏗️ Object-Oriented Programming (C++)  
 
 ---
 
