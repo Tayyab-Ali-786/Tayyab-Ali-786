@@ -61,16 +61,42 @@ Focused on building scalable, maintainable applications while grounding design d
 
 ## Selected Projects
 
+### Full-Stack Web Application (Next.js + Express)
+**Scope:** End-to-end application spanning frontend, backend, and deployment.  
+**Problem:** Building a scalable web platform with secure authentication and dynamic data flow.  
+**Solution:** Designed a modular full-stack architecture using Next.js for server-side rendering and Express for RESTful APIs, with a clear separation of concerns between client, server, and data layers.  
+**Stack:** Next.js, Express, MongoDB, TypeScript  
+
+---
+
+### Frontend Web Application (React)
+**Scope:** Client-side application with component-driven architecture.  
+**Problem:** Managing complex UI state while maintaining responsiveness and reusability.  
+**Solution:** Built a structured React application using functional components and hooks, focusing on clean state management and reusable UI patterns.  
+**Stack:** React, JavaScript, CSS/Tailwind  
+
+---
+
+### Frontend Web Application (React)
+**Scope:** UI-focused project emphasizing layout, interaction, and performance.  
+**Problem:** Creating a maintainable frontend with consistent design and predictable behavior.  
+**Solution:** Implemented a React-based interface with modular components and optimized rendering patterns to ensure smooth user interaction.  
+**Stack:** React, JavaScript, Tailwind CSS  
+
+---
+
 ### Chess Engine & Game Logic
-**Challenge:** Implement complex move validation and efficient state management with low latency.  
-**Outcome:** Designed a modular chess engine in C++ using object-oriented patterns to manage board state, piece behavior, and rule enforcement.  
+**Scope:** Core logic and state management in a performance-sensitive environment.  
+**Problem:** Implementing complex move validation and efficient state tracking.  
+**Solution:** Developed a modular chess engine in C++ using object-oriented principles to manage board state, piece behavior, and rule enforcement.  
 **Stack:** C++, STL  
 
 ---
 
 ### Low-Level Graphics Simulation
-**Challenge:** Build interactive graphical software without relying on high-level engines.  
-**Outcome:** Developed a Breakout-style simulation in 16-bit Assembly using direct memory access and interrupt handling for real-time input and rendering.  
+**Scope:** Hardware-adjacent graphical programming.  
+**Problem:** Creating interactive visuals without high-level game engines.  
+**Solution:** Built a Breakout-style simulation in 16-bit Assembly using direct memory access and interrupt handling for real-time input and rendering.  
 **Stack:** x86 Assembly, NASM, DOSBox  
 
 ---
@@ -93,8 +119,8 @@ I approach software development with an emphasis on **performance, clarity, and 
 ---
 
 ## Current Focus
-
 - Systems programming on Linux  
+- An aspiring full stack developer
 - Game engine architecture using SDL2 and SFML  
 - Understanding OS-level abstractions and hardware interaction  
 
