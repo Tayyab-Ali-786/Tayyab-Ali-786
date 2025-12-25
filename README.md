@@ -1,13 +1,13 @@
 # Hi there, I'm Tayyab Ali! 👋
 
 ### 🎓 BSCS Student at FAST-NUCES
-I am a passionate Software Engineering student at **FAST-NUCES**, dedicated to building efficient software and high-performance web applications. I bridge the gap between low-level performance (C++/Assembly) and modern web scalability.
+I am a Software Engineering student at **FAST-NUCES**, focused on bridging the gap between low-level performance (C++/Assembly) and modern full-stack scalability.
 
 ---
 
 ### 🚀 About Me
 - 🔭 I’m currently building scalable full-stack applications with the MERN stack.
-- 🌱 Mastering **Next.js 15** and Advanced Backend Architecture.
+- 🌱 Mastering **Next.js 18** and Advanced Backend Architecture.
 - ⚡ I love the challenge of Data Structures and Algorithms in C++.
 - 🎮 Fun Fact: I've built games ranging from 16-bit Assembly to OOP-based C++.
 
@@ -35,42 +35,42 @@ I am a passionate Software Engineering student at **FAST-NUCES**, dedicated to b
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Antigravity](https://img.shields.io/badge/Antigravity-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
 
 ---
 
 ### 📂 Featured Projects
 
 #### 🌐 Web Development
-* **Full-Stack Clothing Store**: A modern e-commerce solution using **Next.js, Express, and MongoDB**. Includes dynamic routing and state management.
+* **Full-Stack Clothing Store**: A modern e-commerce solution using **Next.js, Express, and MongoDB**. 
 * **React Admin Dashboard**: A high-performance dashboard for data management and visualization.
-* **Daraz Clone**: An online shopping store focused on mimicking real-world marketplace user flows.
+* **Daraz Clone**: An online shopping store focused on mimicking real-world marketplace flows.
 
 #### 🎮 Game Development & Low Level
-* **Chess Game (C++)**: An OOP-based implementation with move validation and board logic.
-* **Chicken Shooter (C++)**: An arcade-style game showcasing real-time graphics handling.
-* **Brick Buster (16-bit NASM)**: A retro arcade experience built with low-level x86 Assembly.
+* **Chess Game (C++)**: An OOP-based implementation with full board logic.
+* **Chicken Shooter (C++)**: An arcade-style game showcasing real-time graphics.
+* **Brick Buster (16-bit NASM)**: A retro arcade experience built with x86 Assembly.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Tayyab's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&theme=tokyonight" alt="Tayyab's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Ali-786&theme=tokyo-night&hide_border=true" />
 </p>
+
+
 
 ---
 
 ### 📫 Connect with Me
 - **LinkedIn**: [https://www.linkedin.com/in/tayyab-ali-rashid-a471a7309/]
 - **Email**: [tayyabalirashid3@gmail.com]
-
----
-*“Coding is the closest thing we have to a superpower.”*
