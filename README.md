@@ -15,21 +15,49 @@ Focused on building scalable, maintainable applications while grounding design d
 ## Technical Expertise
 
 ### Web Engineering
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express, RESTful API Design  
-- **Data & State:** MongoDB, Firebase, Redux  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="22"/>
+</p>
 
-### Systems & Programming
-- **Languages:** C++, x86 Assembly, JavaScript, SQL  
-- **Operating Systems:** Linux (Ubuntu)  
-- **Low-Level Concepts:** Memory Management, Debugging (GDB), CPU-level execution  
-
-### Infrastructure & Workflow
-- **Version Control:** Git, GitHub  
-- **Deployment:** Vercel, Netlify  
-- **Tooling:** VS Code, Bash, Linux System Administration  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, RESTful API Design  
+**Data & State:** MongoDB, Firebase, Redux  
 
 ---
+
+### Systems & Programming
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="22"/>
+</p>
+
+**Languages:** C++, x86 Assembly, JavaScript, SQL  
+**Operating Systems:** Linux (Ubuntu)  
+**Low-Level Concepts:** Memory Management, Debugging (GDB), CPU-level execution  
+
+---
+
+### Infrastructure & Workflow
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" height="22"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="22"/>
+</p>
+
+**Version Control:** Git, GitHub  
+**Deployment:** Vercel, Netlify  
+**Tooling:** VS Code, Bash, Linux System Administration  
 
 ## Selected Projects
 
