@@ -1,76 +1,72 @@
-# Hi there, I'm Tayyab Ali! 👋
+# Hi there, I'm Tayyab Ali Rashid 👋
 
-### 🎓 BSCS Student at FAST-NUCES
-I am a Software Engineering student at **FAST-NUCES**, focused on bridging the gap between low-level performance (C++/Assembly) and modern full-stack scalability.
+### 🚀 Full-stack AI Developer | Computer Science Student @ FAST-NUCES | Freelancer
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently building scalable full-stack applications with the MERN stack.
-- 🌱 Mastering **Next.js 18** and Advanced Backend Architecture.
-- ⚡ I love the challenge of Data Structures and Algorithms in C++.
-- 🎮 Fun Fact: I've built games ranging from 16-bit Assembly to OOP-based C++.
+I am a passionate **Full-stack AI Developer** and "Vibe Coder" with over 2 years of experience building production-grade AI applications. I specialize in the **MERN stack**, **Next.js**, and **Agentic workflows**, focusing on integrating high-performance LLM infrastructure into scalable products.
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages & Core**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-16bit-orange?style=for-the-badge)
-
-**Full Stack Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Antigravity](https://img.shields.io/badge/Antigravity-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-### 📂 Featured Projects
+### 💻 Tech Stack:
 
-#### 🌐 Web Development
-* **Full-Stack Clothing Store**: A modern e-commerce solution using **Next.js, Express, and MongoDB**. 
-* **React Admin Dashboard**: A high-performance dashboard for data management and visualization.
-* **Daraz Clone**: An online shopping store focused on mimicking real-world marketplace flows.
+#### **Deployment & Cloud**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### 🎮 Game Development & Low Level
-* **Chess Game (C++)**: An OOP-based implementation with full board logic.
-* **Chicken Shooter (C++)**: An arcade-style game showcasing real-time graphics.
-* **Brick Buster (16-bit NASM)**: A retro arcade experience built with x86 Assembly.
+#### **Frontend Development**
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Context-API](https://img.shields.io/badge/Context--API-008080?style=for-the-badge&logo=react&logoColor=white)
+
+#### **Backend & Logic**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### **Tools & Specialized**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Featured Projects:
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&theme=tokyonight" alt="Tayyab's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Ali-786&theme=tokyo-night&hide_border=true" />
-</p>
-
-
+* **Prepify:** An AI-driven mock interview platform using WebRTC for real-time evaluation and GPT-based feedback systems.
+* **Huvio AI Infrastructure:** Built a low-latency real-time video streaming pipeline using Go, gRPC, and FFmpeg for computer vision monitoring.
+* **RedeemX:** A full-stack e-commerce marketplace featuring high-performance SSR and modular architecture.
+* **Agentic Outreach Engine:** An automation tool that leverages LLMs to scrape, rank, and draft personalized job proposals.
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/tayyab-ali-rashid-a471a7309/]
-- **Email**: [tayyabalirashid3@gmail.com]
+### 🐧 Fun Facts:
+* I'm a Linux enthusiast, currently daily-driving **Ubuntu** and keeping a close eye on the **COSMIC** desktop environment.
+* Deeply interested in **WebRTC**, **gRPC**, and **Rust** for high-performance networking.
+* I advocate for **"Vibe Coding"**—leveraging AI tools like Cursor and Bolt for rapid, high-quality product iteration.
+
+---
+
+### 📊 GitHub Stats:
+![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
