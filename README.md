@@ -1,30 +1,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C1A3A,60:1D4ED8,100:38BDF8&height=210&section=header&text=Tayyab%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Real-Time%20Video%20Streaming%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20WebRTC%20%E2%80%A2%20Go%20%7C%20FAST-NUCES%20%E2%80%9828%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/tayyabali">
+  <a href="https://github.com/Tayyab-Ali-786">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=860&lines=Real-Time+Video+Streaming+Engineer+%40+Huvio+AI;WebRTC+%7C+gRPC+%7C+Go+(Golang)+%7C+Ubuntu+Linux;Full-Stack+Developer+%E2%80%94+Web+%26+AI;Generative+AI+%7C+LLM+Integrations+%7C+Voice+AI;Building+production-grade+systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tayyab-ali">
+  <a href="https://www.linkedin.com/in/tayyab-ali-rashid-a471a7309/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tayyabali@gmail.com">
+  <a href="mailto:tayyabalirashid3@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/tayyabali">
+  <a href="https://github.com/Tayyab-Ali-786">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/tayyabali">
+  <a href="https://www.upwork.com/freelancers/~0123585ca8987bac94">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tayyabali&label=Profile+Views&color=38BDF8&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Tayyab-Ali-786&label=Profile+Views&color=38BDF8&style=flat-square"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/tayyabali?label=Followers&style=flat-square&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/Tayyab-Ali-786?label=Followers&style=flat-square&color=38BDF8"/>
 </p>
 
 ---
@@ -142,7 +142,7 @@ func main() {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎥 <a href="https://github.com/tayyabali">Huvio AI — WebRTC Pipeline</a></h3>
+      <h3>🎥 <a href="https://github.com/Tayyab-Ali-786/web">Huvio AI — WebRTC Pipeline</a></h3>
       <p>Production-grade real-time video streaming system at Huvio AI. Implements WebRTC and gRPC pipelines with RTP pacing for ultra-low-latency media delivery across distributed clients.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
@@ -152,7 +152,7 @@ func main() {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/tayyabali">Prepify</a></h3>
+      <h3>🎙️ <a href="https://github.com/Tayyab-Ali-786/web_stream">Prepify</a></h3>
       <p>AI-powered mock interview platform with real-time voice and text analysis. Built using OpenAI and Vapi for live voice sessions, delivering instant feedback on candidate responses.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -164,7 +164,7 @@ func main() {
   </tr>
   <tr>
     <td valign="top">
-      <h3>🧠 <a href="https://github.com/tayyabali">Founder Brain</a></h3>
+      <h3>🧠 <a href="https://github.com/Tayyab-Ali-786/Chattify">Founder Brain</a></h3>
       <p>AI-powered hackathon project that detects coordination gaps in startup operations using Gemini 1.5 Flash. Analyzes founder workflows and surfaces operational blind spots in real time.</p>
       <p>
         <img src="https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
@@ -173,7 +173,7 @@ func main() {
       </p>
     </td>
     <td valign="top">
-      <h3>🔍 <a href="https://github.com/tayyabali">CodeAlpha Internship Projects</a></h3>
+      <h3>🔍 <a href="https://github.com/Tayyab-Ali-786/context-courier">CodeAlpha Internship Projects</a></h3>
       <p>Collection of projects completed during the CodeAlpha technical internship (Jan 2026 Batch). Covering full-stack development, API design, and software engineering best practices.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -189,12 +189,12 @@ func main() {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyabali&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=7DD3FC&text_color=c9d1d9&ring_color=38BDF8" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabali&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=7DD3FC&text_color=c9d1d9&ring_color=38BDF8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="41%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tayyabali&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=8b949e" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=8b949e" width="60%"/>
 </p>
 
 ---
@@ -202,7 +202,7 @@ func main() {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabali&theme=github-compact&bg_color=0D1117&color=38BDF8&line=38BDF8&point=BAE6FD&area=true&hide_border=true&area_color=0C1A3A" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Ali-786&theme=github-compact&bg_color=0D1117&color=38BDF8&line=38BDF8&point=BAE6FD&area=true&hide_border=true&area_color=0C1A3A" width="98%"/>
 </p>
 
 ---
@@ -223,5 +223,5 @@ func main() {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:1D4ED8,70:0C1A3A,100:0D1117&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <sub>Built with ❤️ from Pakistan 🇵🇰 &nbsp;·&nbsp; Open to collabs & freelance &nbsp;→&nbsp; <a href="https://www.upwork.com/freelancers/tayyabali">Upwork</a></sub>
+  <sub>Built with ❤️ from Pakistan 🇵🇰 &nbsp;·&nbsp; Open to collabs & freelance &nbsp;→&nbsp; <a href="https://www.upwork.com/freelancers/~0123585ca8987bac94">Upwork</a></sub>
 </p>
