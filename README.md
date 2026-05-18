@@ -1,27 +1,227 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Scaling real-time video streaming infrastructures and monitoring integrations at Huvio AI, focusing on high-performance backend systems.<br><br>👯 I’m looking to collaborate on<br>Advanced WebRTC implementations, gRPC services, or any projects pushing the boundaries of AI-integrated video technology.<br><br>🤝 I’m looking for help with<br>Optimizing low-latency streaming protocols and fine-tuning system-level performance on Ubuntu for production-grade AI agents.<br><br>🌱 I’m currently learning<br>Advanced Golang concurrency patterns and deep-diving into automated notification summarization systems (building a "Chief of Staff" for apps).<br><br>💬 Ask me about<br>Real-time video engineering, the MERN stack, or building novel AI applications like Prepify and Founder Brain.<br><br>⚡ Fun fact<br>I’m a FAST-NUCES student who spends way too much time researching Dell Precision specs and debating the power levels of MCU characters.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C1A3A,60:1D4ED8,100:38BDF8&height=210&section=header&text=Tayyab%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Real-Time%20Video%20Streaming%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20WebRTC%20%E2%80%A2%20Go%20%7C%20FAST-NUCES%20%E2%80%9828%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 
+<p align="center">
+  <a href="https://github.com/tayyabali">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=860&lines=Real-Time+Video+Streaming+Engineer+%40+Huvio+AI;WebRTC+%7C+gRPC+%7C+Go+(Golang)+%7C+Ubuntu+Linux;Full-Stack+Developer+%E2%80%94+Web+%26+AI;Generative+AI+%7C+LLM+Integrations+%7C+Voice+AI;Building+production-grade+systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m.tayyab.mughal.564535) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyabmughal__786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tayyab Ali Rashid) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Tayyab-Ali-Rashid-2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:32714282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabalirashid3@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tayyab-ali">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tayyabali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tayyabali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/tayyabali">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tayyab-Ali-786&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Tayyab-Ali-786&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tayyab-Ali-786&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tayyab-Ali-786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tayyab-Ali-786&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayyabali&label=Profile+Views&color=38BDF8&style=flat-square"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/tayyabali?label=Followers&style=flat-square&color=38BDF8"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tayyab-Ali-786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+```go
+package main
+
+type Developer struct {
+    Name      string
+    Education string
+    Location  string
+    Role      string
+    Domains   []string
+    CurrentlyBuilding string
+    CurrentlyLearning []string
+    OpenToFreelance    bool
+}
+
+func main() {
+    tayyab := Developer{
+        Name:      "Tayyab Ali",
+        Education: "BS Computer Science — FAST-NUCES, Chiniot-Faisalabad (Batch Fall-2024)",
+        Location:  "Pakistan 🇵🇰 (Lahore / Faisalabad)",
+        Role:      "Full-Stack Dev & Real-Time Video Streaming Engineer @ Huvio AI",
+
+        Domains: []string{
+            "Real-Time Video Streaming  (WebRTC · gRPC · RTP Pacing · Media Pipelines)",
+            "Backend Engineering        (Go/Golang · Node.js · REST · Protocol Buffers)",
+            "Full-Stack Development     (React · Next.js · TypeScript · TailwindCSS)",
+            "AI Integrations            (OpenAI · Vapi · Gemini · Voice AI · LLMs)",
+            "DevOps & Systems           (Ubuntu Linux · Docker · CI/CD · Bash)",
+            "Generative AI              (Pak Angels Cohort 3 · Prompt Engineering · RAG)",
+        },
+
+        CurrentlyBuilding: "Real-time WebRTC + gRPC streaming pipelines @ Huvio AI",
+        CurrentlyLearning: []string{"AWS", "LLM Orchestration", "Advanced gRPC patterns"},
+        OpenToFreelance:   true,  // Active on Upwork 🚀
+    }
+}
+```
+
+---
+
+## 🛠 Technical Domains
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>📡 &nbsp; Real-Time Streaming</h3>
+      <img src="https://skillicons.dev/icons?i=go,linux,docker,bash&perline=4&theme=dark"/>
+      <br/><br/>
+      <sub><b>WebRTC · gRPC · Protocol Buffers · RTP Pacing</b><br/>Media Pipeline Engineering · Go (Golang)<br/>Ubuntu Linux · Low-Latency Systems</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🌐 &nbsp; Full-Stack Web</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&perline=4&theme=dark"/>
+      <br/><br/>
+      <sub><b>React · Next.js · TypeScript · JavaScript</b><br/>Tailwind CSS · shadcn/ui · Vite · HTML · CSS</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>⚙️ &nbsp; Backend Engineering</h3>
+      <img src="https://skillicons.dev/icons?i=go,nodejs,express,py,postgres,mongodb&perline=4&theme=dark"/>
+      <br/><br/>
+      <sub><b>Go · Node.js · Express · Python</b><br/>PostgreSQL · MongoDB · REST APIs<br/>gRPC · Protocol Buffers · JWT Auth</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🤖 &nbsp; AI & Generative AI</h3>
+      <img src="https://skillicons.dev/icons?i=py,openai,tensorflow&perline=4&theme=dark"/>
+      <br/><br/>
+      <sub><b>OpenAI · Vapi · Gemini 1.5 Flash</b><br/>Voice AI · Real-Time Voice Analysis<br/>LLM Prompt Engineering · RAG Pipelines<br/>Pak Angels Generative AI — Cohort 3</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🔧 &nbsp; DevOps & Systems</h3>
+      <img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github&perline=4&theme=dark"/>
+      <br/><br/>
+      <sub><b>Ubuntu Linux · Docker · Git · Bash</b><br/>GitHub Actions · CI/CD Pipelines<br/>Shell Automation · Dell Precision Workstations</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>💼 &nbsp; Freelance & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=figma,postman,vscode&perline=4&theme=dark"/>
+      <br/><br/>
+      <sub><b>Upwork · Freelance Consulting</b><br/>CodeAlpha Internship — Jan 2026 Batch<br/>Meezan Bank Digital Freelancer Account<br/>Project Billing · Client Delivery</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎥 <a href="https://github.com/tayyabali">Huvio AI — WebRTC Pipeline</a></h3>
+      <p>Production-grade real-time video streaming system at Huvio AI. Implements WebRTC and gRPC pipelines with RTP pacing for ultra-low-latency media delivery across distributed clients.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/tayyabali">Prepify</a></h3>
+      <p>AI-powered mock interview platform with real-time voice and text analysis. Built using OpenAI and Vapi for live voice sessions, delivering instant feedback on candidate responses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vapi-38BDF8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🧠 <a href="https://github.com/tayyabali">Founder Brain</a></h3>
+      <p>AI-powered hackathon project that detects coordination gaps in startup operations using Gemini 1.5 Flash. Analyzes founder workflows and surfaces operational blind spots in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>🔍 <a href="https://github.com/tayyabali">CodeAlpha Internship Projects</a></h3>
+      <p>Collection of projects completed during the CodeAlpha technical internship (Jan 2026 Batch). Covering full-stack development, API design, and software engineering best practices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyabali&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=7DD3FC&text_color=c9d1d9&ring_color=38BDF8" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabali&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="41%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tayyabali&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=8b949e" width="60%"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabali&theme=github-compact&bg_color=0D1117&color=38BDF8&line=38BDF8&point=BAE6FD&area=true&hide_border=true&area_color=0C1A3A" width="98%"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```
+ ✅  Huvio AI Pipeline       — WebRTC + gRPC real-time media streaming (RTP pacing)
+ 🤖  Generative AI           — Pak Angels Cohort 3 · LLM Orchestration · RAG
+ 🐹  Go (Golang)             — Advanced concurrency, gRPC patterns, systems design
+ ☁️  Cloud & DevOps          — AWS (EC2 · Lambda · S3) · Docker multi-stage builds
+ 🎓  1st Year                — BS Computer Science, FAST-NUCES CF Campus (Fall-2024)
+ 💼  Freelance               — Active on Upwork · Open to new opportunities
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:1D4ED8,70:0C1A3A,100:0D1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <sub>Built with ❤️ from Pakistan 🇵🇰 &nbsp;·&nbsp; Open to collabs & freelance &nbsp;→&nbsp; <a href="https://www.upwork.com/freelancers/tayyabali">Upwork</a></sub>
+</p>
