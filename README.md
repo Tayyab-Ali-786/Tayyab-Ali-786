@@ -1,17 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C1A3A,60:1D4ED8,100:38BDF8&height=210&section=header&text=Tayyab%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Real-Time%20Video%20Streaming%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20WebRTC%20%E2%80%A2%20Go%20%7C%20FAST-NUCES%20%E2%80%9828%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C1A3A,60:1D4ED8,100:38BDF8&height=220&section=header&text=Tayyab%20Ali&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Real-Time%20Video%20Streaming%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20WebRTC%20%E2%80%A2%20Go%20%7C%20FAST-NUCES%20%E2%80%9828%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=56&descSize=14&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Tayyab-Ali-786">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=860&lines=Real-Time+Video+Streaming+Engineer+%40+Huvio+AI;WebRTC+%7C+gRPC+%7C+Go+(Golang)+%7C+Ubuntu+Linux;Full-Stack+Developer+%E2%80%94+Web+%26+AI;Generative+AI+%7C+LLM+Integrations+%7C+Voice+AI;Building+production-grade+systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=880&lines=Real-Time+Video+Streaming+Engineer+%40+Huvio+AI;WebRTC+%7C+gRPC+%7C+RTP+Pacing+%7C+Media+Pipelines;Full-Stack+Developer+%E2%80%94+React+%7C+Next.js+%7C+TypeScript;Generative+AI+%7C+LLM+Integrations+%7C+Voice+AI;Building+production-grade+systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+Freelance+%E2%80%94+Active+on+Upwork+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
+<!-- ── Social Badges ─────────────────────────────────────────── -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyab-ali-rashid-a471a7309/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tayyabalirashid3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Tayyab-Ali-786">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -21,10 +22,24 @@
   </a>
 </p>
 
+<!-- ── Status Badges ─────────────────────────────────────────── -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=statuspage&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-WebRTC%20%2B%20gRPC-38BDF8?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cohort-Pak%20Angels%20Gen%20AI%203-F59E0B?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<!-- ── Visitor Counter + Followers + Stars ───────────────────── -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tayyab-Ali-786&label=Profile+Views&color=38BDF8&style=flat-square"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Tayyab-Ali-786?label=Followers&style=flat-square&color=38BDF8"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Tayyab-Ali-786?label=Total+Stars&style=flat-square&color=F59E0B"/>
 </p>
 
 ---
@@ -35,19 +50,20 @@
 package main
 
 type Developer struct {
-    Name      string
-    Education string
-    Location  string
-    Role      string
-    Domains   []string
-    CurrentlyBuilding string
-    CurrentlyLearning []string
+    Name               string
+    Education          string
+    Location           string
+    Role               string
+    Domains            []string
+    CurrentlyBuilding  string
+    CurrentlyLearning  []string
     OpenToFreelance    bool
+    FunFact            string
 }
 
 func main() {
     tayyab := Developer{
-        Name:      "Tayyab Ali",
+        Name:      "Tayyab Ali Rashid",
         Education: "BS Computer Science — FAST-NUCES, Chiniot-Faisalabad (Batch Fall-2024)",
         Location:  "Pakistan 🇵🇰 (Lahore / Faisalabad)",
         Role:      "Full-Stack Dev & Real-Time Video Streaming Engineer @ Huvio AI",
@@ -64,6 +80,7 @@ func main() {
         CurrentlyBuilding: "Real-time WebRTC + gRPC streaming pipelines @ Huvio AI",
         CurrentlyLearning: []string{"AWS", "LLM Orchestration", "Advanced gRPC patterns"},
         OpenToFreelance:   true,  // Active on Upwork 🚀
+        FunFact:           "I debug WebRTC packets at 2AM and call it fun 🎥",
     }
 }
 ```
@@ -137,6 +154,25 @@ func main() {
 
 ---
 
+## 🏅 Skill Proficiency
+
+<p align="center">
+
+| Skill | Proficiency |
+|-------|------------|
+| **Go / Golang** | `████████████████████` 90% |
+| **WebRTC & gRPC** | `███████████████████░` 88% |
+| **React / Next.js** | `████████████████████` 92% |
+| **TypeScript** | `██████████████████░░` 85% |
+| **Node.js / Express** | `███████████████████░` 88% |
+| **Python** | `████████████████░░░░` 78% |
+| **Docker / Linux** | `███████████████░░░░░` 75% |
+| **AI / LLM Integration** | `██████████████░░░░░░` 72% |
+
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table width="100%">
@@ -146,43 +182,52 @@ func main() {
       <p>Production-grade real-time video streaming system at Huvio AI. Implements WebRTC and gRPC pipelines with RTP pacing for ultra-low-latency media delivery across distributed clients.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
         <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square"/>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/Tayyab-Ali-786/web_stream">Prepify</a></h3>
-      <p>AI-powered mock interview platform with real-time voice and text analysis. Built using OpenAI and Vapi for live voice sessions, delivering instant feedback on candidate responses.</p>
+      <h3>📡 <a href="https://github.com/Tayyab-Ali-786/web_stream">web_stream</a></h3>
+      <p>Real-time web streaming project exploring advanced media delivery patterns. Focuses on stream lifecycle management, buffering strategies, and low-latency broadcast over WebSocket/WebRTC.</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vapi-38BDF8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h3>🧠 <a href="https://github.com/Tayyab-Ali-786/Chattify">Founder Brain</a></h3>
-      <p>AI-powered hackathon project that detects coordination gaps in startup operations using Gemini 1.5 Flash. Analyzes founder workflows and surfaces operational blind spots in real time.</p>
+      <h3>💬 <a href="https://github.com/Tayyab-Ali-786/Chattify">Chattify</a></h3>
+      <p>Full-stack real-time chat application with a clean, modern UI. Supports live messaging, user presence indicators, and message history — built for seamless low-latency communication.</p>
       <p>
-        <img src="https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </p>
     </td>
     <td valign="top">
-      <h3>🔍 <a href="https://github.com/Tayyab-Ali-786/context-courier">CodeAlpha Internship Projects</a></h3>
-      <p>Collection of projects completed during the CodeAlpha technical internship (Jan 2026 Batch). Covering full-stack development, API design, and software engineering best practices.</p>
+      <h3>📦 <a href="https://github.com/Tayyab-Ali-786/context-courier">Context Courier</a></h3>
+      <p>A smart context-passing utility that reliably delivers structured data payloads across service boundaries. Designed to solve context leakage in distributed and multi-step pipeline architectures.</p>
       <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST%20API-005C84?style=flat-square"/>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayyab-Ali-786&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+</p>
 
 ---
 
@@ -207,6 +252,20 @@ func main() {
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake-dark.svg" width="98%"/>
+  </picture>
+</p>
+
+> 💡 **To activate the snake:** In your profile repo (`Tayyab-Ali-786/Tayyab-Ali-786`), add a GitHub Actions workflow using [platane/snk](https://github.com/platane/snk) — it auto-generates the SVG on a daily schedule.
+
+---
+
 ## 🎯 Current Focus
 
 ```
@@ -220,8 +279,53 @@ func main() {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:1D4ED8,70:0C1A3A,100:0D1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+## ⚡ Fun Facts & Beyond the Code
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+**🧠 About Me**
+- 🏏 Cricket fan — always on the field or watching a match
+- 🏔️ Love exploring Northern Pakistan — Swat, Malam Jabba, KPK
+- 🎬 MCU enthusiast — Iron Man did it first, don't @ me
+- 🌙 Peak productivity hits after midnight
+- 🇵🇰 Proud to build globally from Pakistan
+
+    </td>
+    <td width="50%" valign="top">
+
+**💬 Dev Philosophy**
+```
+"Ship fast. Learn faster.
+ Debug at 2AM if you have to."
+
+— Tayyab, probably in a gRPC rabbit hole
+```
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
-  <sub>Built with ❤️ from Pakistan 🇵🇰 &nbsp;·&nbsp; Open to collabs & freelance &nbsp;→&nbsp; <a href="https://www.upwork.com/freelancers/~0123585ca8987bac94">Upwork</a></sub>
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [tayyab-ali-rashid](https://www.linkedin.com/in/tayyab-ali-rashid-a471a7309/) |
+| 🐙 **GitHub** | [Tayyab-Ali-786](https://github.com/Tayyab-Ali-786) |
+| 🟢 **Upwork** | [Hire me on Upwork](https://www.upwork.com/freelancers/~0123585ca8987bac94) |
+| 📧 **Email** | [tayyabalirashid3@gmail.com](mailto:tayyabalirashid3@gmail.com) |
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:1D4ED8,70:0C1A3A,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <sub>Built with ❤️ from Pakistan 🇵🇰 &nbsp;·&nbsp; Open to collabs & freelance &nbsp;→&nbsp; <a href="https://www.upwork.com/freelancers/~0123585ca8987bac94">Upwork</a> &nbsp;·&nbsp; <a href="mailto:tayyabalirashid3@gmail.com">Email me</a></sub>
 </p>
