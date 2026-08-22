@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C1A3A,60:1D4ED8,100:38BDF8&height=220&section=header&text=Tayyab%20Ali&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Real-Time%20Video%20Streaming%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20WebRTC%20%E2%80%A2%20Go%20%7C%20FAST-NUCES%20%E2%80%9828%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=56&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,35:312E81,65:2563EB,100:22D3EE&height=220&section=header&text=Tayyab%20Ali&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=Real-Time%20Video%20Streaming%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20WebRTC%20%E2%80%A2%20Go%20%7C%20FAST-NUCES%20%E2%80%9928%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=56&descSize=14&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Tayyab-Ali-786">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=880&lines=Real-Time+Video+Streaming+Engineer+%40+Huvio+AI;WebRTC+%7C+gRPC+%7C+RTP+Pacing+%7C+Media+Pipelines;Full-Stack+Developer+%E2%80%94+React+%7C+Next.js+%7C+TypeScript;Generative+AI+%7C+LLM+Integrations+%7C+Voice+AI;Building+production-grade+systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+Freelance+%E2%80%94+Active+on+Upwork+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=22D3EE&center=true&vCenter=true&width=880&lines=Real-Time+Video+Streaming+Engineer+%40+Huvio+AI;WebRTC+%7C+gRPC+%7C+RTP+Pacing+%7C+Media+Pipelines;Full-Stack+Developer+%E2%80%94+React+%7C+Next.js+%7C+TypeScript;Generative+AI+%7C+LLM+Integrations+%7C+Voice+AI;Building+production-grade+systems+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+Freelance+%E2%80%94+Active+on+Upwork+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -24,22 +24,20 @@
 
 <!-- ── Status Badges ─────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&logo=statuspage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-34D399?style=flat-square&logo=statuspage&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blue?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-2563EB?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-WebRTC%20%2B%20gRPC-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-WebRTC%20%2B%20gRPC-22D3EE?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Cohort-Pak%20Angels%20Gen%20AI%203-F59E0B?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohort-Pak%20Angels%20Gen%20AI%203-FBBF24?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
-<!-- ── Visitor Counter + Followers + Stars ───────────────────── -->
+<!-- ── Visitor Counter + Followers ───────────────────── -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tayyab-Ali-786&label=Profile+Views&color=38BDF8&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Tayyab-Ali-786&label=Profile+Views&color=22D3EE&style=flat-square"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Tayyab-Ali-786?label=Followers&style=flat-square&color=38BDF8"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Tayyab-Ali-786?label=Total+Stars&style=flat-square&color=F59E0B"/>
+  <img src="https://img.shields.io/github/followers/Tayyab-Ali-786?label=Followers&style=flat-square&color=22D3EE"/>
 </p>
 
 ---
@@ -77,7 +75,7 @@ func main() {
             "Generative AI              (Pak Angels Cohort 3 · Prompt Engineering · RAG)",
         },
 
-        CurrentlyBuilding: "Real-time WebRTC + gRPC streaming pipelines @ Huvio AI",
+        CurrentlyBuilding: "Frame-Aware Metronome pipeline @ Huvio AI — 600ms → sub-33ms latency",
         CurrentlyLearning: []string{"AWS", "LLM Orchestration", "Advanced gRPC patterns"},
         OpenToFreelance:   true,  // Active on Upwork 🚀
         FunFact:           "I debug WebRTC packets at 2AM and call it fun 🎥",
@@ -93,7 +91,7 @@ func main() {
   <tr>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-22D3EE?style=flat-square&labelColor=22D3EE"/>
       <h3>📡 &nbsp; Real-Time Streaming</h3>
       <img src="https://skillicons.dev/icons?i=go,linux,docker,bash&perline=4&theme=dark"/>
       <br/><br/>
@@ -102,7 +100,7 @@ func main() {
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-22D3EE?style=flat-square&labelColor=22D3EE"/>
       <h3>🌐 &nbsp; Full-Stack Web</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&perline=4&theme=dark"/>
       <br/><br/>
@@ -113,7 +111,7 @@ func main() {
   <tr>
     <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-22D3EE?style=flat-square&labelColor=22D3EE"/>
       <h3>⚙️ &nbsp; Backend Engineering</h3>
       <img src="https://skillicons.dev/icons?i=go,nodejs,express,py,postgres,mongodb&perline=4&theme=dark"/>
       <br/><br/>
@@ -122,7 +120,7 @@ func main() {
     </td>
     <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-22D3EE?style=flat-square&labelColor=22D3EE"/>
       <h3>🤖 &nbsp; AI & Generative AI</h3>
       <img src="https://skillicons.dev/icons?i=py,openai,tensorflow&perline=4&theme=dark"/>
       <br/><br/>
@@ -133,7 +131,7 @@ func main() {
   <tr>
     <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-22D3EE?style=flat-square&labelColor=22D3EE"/>
       <h3>🔧 &nbsp; DevOps & Systems</h3>
       <img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github&perline=4&theme=dark"/>
       <br/><br/>
@@ -142,7 +140,7 @@ func main() {
     </td>
     <td align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/─────────────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/─────────────────────────────-22D3EE?style=flat-square&labelColor=22D3EE"/>
       <h3>💼 &nbsp; Freelance & Tools</h3>
       <img src="https://skillicons.dev/icons?i=figma,postman,vscode&perline=4&theme=dark"/>
       <br/><br/>
@@ -160,14 +158,14 @@ func main() {
 
 | Skill | Proficiency |
 |-------|------------|
-| **Go / Golang** | `████████████████████` 90% |
-| **WebRTC & gRPC** | `███████████████████░` 88% |
-| **React / Next.js** | `████████████████████` 92% |
-| **TypeScript** | `██████████████████░░` 85% |
-| **Node.js / Express** | `███████████████████░` 88% |
+| **Go / Golang** | `███████████████████░` 94% |
+| **WebRTC & gRPC** | `██████████████████░░` 92% |
+| **React / Next.js** | `██████████████████░░` 92% |
+| **Node.js / Express** | `██████████████████░░` 90% |
+| **TypeScript** | `█████████████████░░░` 85% |
+| **Docker / Linux** | `████████████████░░░░` 81% |
+| **AI / LLM Integration** | `████████████████░░░░` 78% |
 | **Python** | `████████████████░░░░` 78% |
-| **Docker / Linux** | `███████████████░░░░░` 75% |
-| **AI / LLM Integration** | `██████████████░░░░░░` 72% |
 
 </p>
 
@@ -179,7 +177,7 @@ func main() {
   <tr>
     <td width="50%" valign="top">
       <h3>🎥 <a href="https://github.com/Tayyab-Ali-786/web">Huvio AI — WebRTC Pipeline</a></h3>
-      <p>Production-grade real-time video streaming system at Huvio AI. Implements WebRTC and gRPC pipelines with RTP pacing for ultra-low-latency media delivery across distributed clients.</p>
+      <p>Production real-time video streaming system at Huvio AI. Rebuilt a broken WebRTC/gRPC pipeline from the ground up and shipped the <b>Frame-Aware Metronome</b> — assembling complete H.264 Access Units before bursting RTP — cutting end-to-end latency from ~600ms to sub-33ms, validated across 250K+ packets with zero drops.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
@@ -226,7 +224,7 @@ func main() {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tayyab-Ali-786&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayyab-Ali-786&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 </p>
 
 ---
@@ -234,12 +232,12 @@ func main() {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=7DD3FC&text_color=c9d1d9&ring_color=38BDF8" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0A0E1A&title_color=22D3EE&icon_color=818CF8&text_color=c9d1d9&ring_color=22D3EE" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0A0E1A&title_color=22D3EE&text_color=c9d1d9&langs_count=8" width="41%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=8b949e" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&background=0A0E1A&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=818CF8&dates=8b949e" width="60%"/>
 </p>
 
 ---
@@ -247,33 +245,71 @@ func main() {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Ali-786&theme=github-compact&bg_color=0D1117&color=38BDF8&line=38BDF8&point=BAE6FD&area=true&hide_border=true&area_color=0C1A3A" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Ali-786&theme=github-compact&bg_color=0A0E1A&color=22D3EE&line=22D3EE&point=BAE6FD&area=true&hide_border=true&area_color=312E81" width="98%"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<details>
+<summary>🐍 <b>Contribution Snake</b> — not active yet, click to enable in ~2 minutes</summary>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake-dark.svg" width="98%"/>
-  </picture>
-</p>
+<br>
 
-> 💡 **To activate the snake:** In your profile repo (`Tayyab-Ali-786/Tayyab-Ali-786`), add a GitHub Actions workflow using [platane/snk](https://github.com/platane/snk) — it auto-generates the SVG on a daily schedule.
+The snake isn't rendering because the generator workflow has never been run — there's no reason to keep a broken image tag in a live profile. To turn it on:
+
+1. In the `Tayyab-Ali-786/Tayyab-Ali-786` repo, add `.github/workflows/snake.yml`:
+   ```yaml
+   name: generate snake
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: [ main ]
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: Tayyab-Ali-786
+             outputs: |
+               dist/github-snake-dark.svg?palette=github-dark
+               dist/github-snake.svg
+         - uses: actions/upload-pages-artifact@v3
+           with:
+             path: dist
+     deploy:
+       needs: generate
+       runs-on: ubuntu-latest
+       permissions:
+         contents: write
+       steps:
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ```
+2. Commit it, then run the workflow once manually (Actions tab → Run workflow) so the `output` branch and SVGs exist.
+3. Then re-add this line to the README above:
+   ```md
+   ![Snake animation](https://raw.githubusercontent.com/Tayyab-Ali-786/Tayyab-Ali-786/output/github-snake-dark.svg)
+   ```
+
+</details>
 
 ---
 
 ## 🎯 Current Focus
 
 ```
- ✅  Huvio AI Pipeline       — WebRTC + gRPC real-time media streaming (RTP pacing)
+ ✅  Huvio AI Pipeline       — Frame-Aware Metronome: 600ms → sub-33ms latency (RTP pacing)
  🤖  Generative AI           — Pak Angels Cohort 3 · LLM Orchestration · RAG
  🐹  Go (Golang)             — Advanced concurrency, gRPC patterns, systems design
  ☁️  Cloud & DevOps          — AWS (EC2 · Lambda · S3) · Docker multi-stage builds
- 🎓  1st Year                — BS Computer Science, FAST-NUCES CF Campus (Fall-2024)
+ 🎓  Year 3                  — BS Computer Science, FAST-NUCES CF Campus (Batch Fall-2024)
  💼  Freelance               — Active on Upwork · Open to new opportunities
 ```
 
@@ -324,7 +360,7 @@ func main() {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,40:1D4ED8,70:0C1A3A,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:2563EB,65:312E81,100:0A0E1A&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <sub>Built with ❤️ from Pakistan 🇵🇰 &nbsp;·&nbsp; Open to collabs & freelance &nbsp;→&nbsp; <a href="https://www.upwork.com/freelancers/~0123585ca8987bac94">Upwork</a> &nbsp;·&nbsp; <a href="mailto:tayyabalirashid3@gmail.com">Email me</a></sub>
