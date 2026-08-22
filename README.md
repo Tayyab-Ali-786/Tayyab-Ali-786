@@ -221,20 +221,7 @@ func main() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tayyab-Ali-786&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=0A0E1A&title_color=22D3EE&icon_color=818CF8&text_color=c9d1d9&ring_color=22D3EE" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0A0E1A&title_color=22D3EE&text_color=c9d1d9&langs_count=8" width="41%"/>
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&background=0A0E1A&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=818CF8&dates=8b949e" width="60%"/>
