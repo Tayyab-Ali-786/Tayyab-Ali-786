@@ -244,7 +244,7 @@ func main() {
 
 The snake isn't rendering because the generator workflow has never been run — there's no reason to keep a broken image tag in a live profile. To turn it on:
 
-1. In the `Tayyab-Ali-786/Tayyab-Ali-786` repo, add `.github/workflows/snake.yml`:
+1. In the `Tayyab-Ali-786/Tayyab-Ali-786` repo, replace `.github/workflows/snake.yml` with this (one job, not two — generate and deploy need to share the same runner disk):
    ```yaml
    name: generate snake
    on:
@@ -256,23 +256,21 @@ The snake isn't rendering because the generator workflow has never been run — 
    jobs:
      generate:
        runs-on: ubuntu-latest
+       permissions:
+         contents: write
        steps:
-         - uses: Platane/snk@v3
+         - uses: actions/checkout@v4
+         - name: generate snake svg
+           uses: Platane/snk@v3
            with:
              github_user_name: Tayyab-Ali-786
              outputs: |
                dist/github-snake-dark.svg?palette=github-dark
                dist/github-snake.svg
-         - uses: actions/upload-pages-artifact@v3
-           with:
-             path: dist
-     deploy:
-       needs: generate
-       runs-on: ubuntu-latest
-       permissions:
-         contents: write
-       steps:
-         - uses: crazy-max/ghaction-github-pages@v4
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         - name: push to output branch
+           uses: crazy-max/ghaction-github-pages@v4
            with:
              target_branch: output
              build_dir: dist
