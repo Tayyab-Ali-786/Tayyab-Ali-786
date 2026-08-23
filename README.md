@@ -64,7 +64,7 @@ func main() {
         Name:      "Tayyab Ali Rashid",
         Education: "BS Computer Science — FAST-NUCES, Chiniot-Faisalabad (Batch Fall-2024)",
         Location:  "Pakistan 🇵🇰 (Lahore / Faisalabad)",
-        Role:      "Full-Stack Dev & Real-Time Video Streaming Engineer @ Huvio AI",
+        Role:      "Full-Stack Dev & Real-Time Video Streaming Engineer @ Huvio AI" | Top Rated @ upwork,
 
         Domains: []string{
             "Real-Time Video Streaming  (WebRTC · gRPC · RTP Pacing · Media Pipelines)",
