@@ -197,58 +197,88 @@ func main() {
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎥 <a href="https://github.com/Tayyab-Ali-786/web">Huvio AI — WebRTC Pipeline</a></h3>
-      <p>Production real-time video streaming system at Huvio AI. Rebuilt a broken WebRTC/gRPC pipeline from the ground up and shipped the <b>Frame-Aware Metronome</b> — assembling complete H.264 Access Units before bursting RTP — cutting end-to-end latency from ~600ms to sub-33ms, validated across 250K+ packets with zero drops.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-FF6B4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/gRPC-7C3AED?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/Tayyab-Ali-786/web_stream">web_stream</a></h3>
-      <p>Real-time web streaming project exploring advanced media delivery patterns. Focuses on stream lifecycle management, buffering strategies, and low-latency broadcast over WebSocket/WebRTC.</p>
-      <p>
-        <img src="https://img.shields.io/badge/WebRTC-FF6B4A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSocket-F72585?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>💬 <a href="https://github.com/Tayyab-Ali-786/Chattify">Chattify</a></h3>
-      <p>Full-stack real-time chat application with a clean, modern UI. Supports live messaging, user presence indicators, and message history — built for seamless low-latency communication.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-    <td valign="top">
-      <h3>📦 <a href="https://github.com/Tayyab-Ali-786/context-courier">Context Courier</a></h3>
-      <p>A smart context-passing utility that reliably delivers structured data payloads across service boundaries. Designed to solve context leakage in distributed and multi-step pipeline architectures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST%20API-7C3AED?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center"><sub>Pulled straight from <a href="https://github.com/Tayyab-Ali-786?tab=repositories">github.com/Tayyab-Ali-786</a> — 28 repos · 16 stars earned</sub></p>
+
+<br/>
+
+<h3>🎥&nbsp; <a href="https://github.com/Tayyab-Ali-786/web">01 — Huvio AI · WebRTC Pipeline</a></h3>
+
+Production real-time video streaming system at Huvio AI. Rebuilt a broken WebRTC/gRPC pipeline from the ground up and shipped the **Frame-Aware Metronome** — assembling complete H.264 Access Units before bursting RTP — cutting end-to-end latency from ~600ms to sub-33ms, validated across 250K+ packets with zero drops.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-FF6B4A?style=plastic"/>
+  <img src="https://img.shields.io/badge/gRPC-7C3AED?style=plastic"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
+</p>
+
+<br/>
+
+<h3>📡&nbsp; <a href="https://github.com/Tayyab-Ali-786/web_stream">02 — web_stream</a></h3>
+
+Real-time web streaming project exploring advanced media delivery patterns — stream lifecycle management, buffering strategies, and low-latency broadcast over WebSocket/WebRTC.
+
+<p>
+  <img src="https://img.shields.io/badge/WebRTC-FF6B4A?style=plastic"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-F72585?style=plastic"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
+</p>
+
+<br/>
+
+<h3>💬&nbsp; <a href="https://github.com/Tayyab-Ali-786/Chattify">03 — Chattify</a> &nbsp;⭐</h3>
+
+Full-stack real-time chat application with a clean, modern UI. Live messaging, user presence indicators, and message history — built for seamless low-latency communication.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+</p>
+
+<br/>
+
+<h3>📦&nbsp; <a href="https://github.com/Tayyab-Ali-786/context-courier">04 — Context Courier</a></h3>
+
+A smart context-passing utility that reliably delivers structured data payloads across service boundaries — solves context leakage in distributed, multi-step pipeline architectures.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-7C3AED?style=plastic"/>
+</p>
+
+<br/>
+
+<h3>📊&nbsp; <a href="https://github.com/Tayyab-Ali-786/Data_Analyzer">05 — Data_Analyzer</a></h3>
+
+A TypeScript tool for parsing, processing, and visualizing datasets — pinned on the profile as one of the go-to data-handling utilities.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Processing-FBBF24?style=plastic"/>
+</p>
+
+<br/>
+
+<h3>💼&nbsp; <a href="https://github.com/Tayyab-Ali-786/jobSeeker">06 — jobSeeker</a> &nbsp;⭐</h3>
+
+A job search / listing interface built with HTML, CSS, and JS.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
 ## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&background=0A0118&stroke=F72585&ring=F72585&fire=FF6B4A&currStreakLabel=F72585&sideLabels=7C3AED&dates=8b949e" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&background=0A0118&stroke=F72585&ring=F72585&fire=FF6B4A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F72585&sideLabels=7C3AED&dates=CBD5E1" width="60%"/>
 </p>
 
 ---
