@@ -85,65 +85,27 @@ func main() {
 
 ---
 
-## 🛠 Technical Domains
+## 🛠 Tech Stack
 
-<h3>📡&nbsp; Real-Time Streaming</h3>
+#### ⚡ Real-Time Streaming & Media
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=FF6B4A&center=false&vCenter=true&width=600&height=24&lines=WebRTC+%7C+gRPC+%7C+Protocol+Buffers+%7C+RTP+Pacing;Media+Pipeline+Engineering+%7C+Go+(Golang);Ubuntu+Linux+%7C+Low-Latency+Systems"/>
+<img src="https://skillicons.dev/icons?i=go,linux,docker,bash&perline=8&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=go,linux,docker,bash&perline=4&theme=dark"/>
+#### 🌐 Frontend & Full-Stack Web
 
-<img src="https://img.shields.io/badge/WebRTC-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/gRPC-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Protocol%20Buffers-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/RTP%20Pacing-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Go%20(Golang)-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Ubuntu%20Linux-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Low--Latency%20Systems-FF6B4A?style=plastic"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vite,html,css&perline=8&theme=dark"/>
 
-<br/><br/>
+#### ⚙️ Backend & Databases
 
-<h3>🌐&nbsp; Full-Stack Web</h3>
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,py,postgres,mongodb&perline=8&theme=dark"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=F72585&center=false&vCenter=true&width=600&height=24&lines=React+%7C+Next.js+%7C+TypeScript+%7C+JavaScript;Tailwind+CSS+%7C+shadcn%2Fui+%7C+Vite;HTML+%7C+CSS"/>
+#### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&perline=4&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,bash&perline=8&theme=dark"/>
 
-<img src="https://img.shields.io/badge/React-F72585?style=plastic"/> <img src="https://img.shields.io/badge/Next.js-F72585?style=plastic"/> <img src="https://img.shields.io/badge/TypeScript-F72585?style=plastic"/> <img src="https://img.shields.io/badge/JavaScript-F72585?style=plastic"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-F72585?style=plastic"/> <img src="https://img.shields.io/badge/shadcn%2Fui-F72585?style=plastic"/> <img src="https://img.shields.io/badge/Vite-F72585?style=plastic"/>
+#### 🤖 AI & Automation
 
-<br/><br/>
-
-<h3>⚙️&nbsp; Backend Engineering</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=7C3AED&center=false&vCenter=true&width=600&height=24&lines=Go+%7C+Node.js+%7C+Express+%7C+Python;PostgreSQL+%7C+MongoDB+%7C+REST+APIs;gRPC+%7C+Protocol+Buffers+%7C+JWT+Auth"/>
-
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,py,postgres,mongodb&perline=4&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Go-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/Node.js-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/Express-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/Python-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/MongoDB-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=plastic"/> <img src="https://img.shields.io/badge/JWT%20Auth-7C3AED?style=plastic"/>
-
-<br/><br/>
-
-<h3>🤖&nbsp; AI & Generative AI</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=FBBF24&center=false&vCenter=true&width=600&height=24&lines=OpenAI+%7C+Vapi+%7C+Gemini+1.5+Flash;Voice+AI+%7C+Real-Time+Voice+Analysis;LLM+Prompt+Engineering+%7C+RAG+Pipelines"/>
-
-<img src="https://skillicons.dev/icons?i=py,openai,tensorflow&perline=4&theme=dark"/>
-
-<img src="https://img.shields.io/badge/OpenAI-FBBF24?style=plastic"/> <img src="https://img.shields.io/badge/Vapi-FBBF24?style=plastic"/> <img src="https://img.shields.io/badge/Gemini%201.5%20Flash-FBBF24?style=plastic"/> <img src="https://img.shields.io/badge/Voice%20AI-FBBF24?style=plastic"/> <img src="https://img.shields.io/badge/RAG%20Pipelines-FBBF24?style=plastic"/> <img src="https://img.shields.io/badge/Pak%20Angels%20Cohort%203-FBBF24?style=plastic"/>
-
-<br/><br/>
-
-<h3>🔧&nbsp; DevOps & Systems</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=FF6B4A&center=false&vCenter=true&width=600&height=24&lines=Ubuntu+Linux+%7C+Docker+%7C+Git+%7C+Bash;GitHub+Actions+%7C+CI%2FCD+Pipelines;Shell+Automation"/>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,github&perline=4&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Ubuntu%20Linux-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Docker-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Git-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/Bash-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/GitHub%20Actions-FF6B4A?style=plastic"/> <img src="https://img.shields.io/badge/CI%2FCD-FF6B4A?style=plastic"/>
-
-<br/><br/>
-
-<h3>💼&nbsp; Freelance & Tools</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=F72585&center=false&vCenter=true&width=600&height=24&lines=Upwork+%7C+Freelance+Consulting;CodeAlpha+Internship+%E2%80%94+Jan+2026;Project+Billing+%7C+Client+Delivery"/>
-
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode&perline=4&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Upwork-F72585?style=plastic"/> <img src="https://img.shields.io/badge/Freelance%20Consulting-F72585?style=plastic"/> <img src="https://img.shields.io/badge/CodeAlpha%20Internship-F72585?style=plastic"/> <img src="https://img.shields.io/badge/Project%20Billing-F72585?style=plastic"/> <img src="https://img.shields.io/badge/Client%20Delivery-F72585?style=plastic"/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow&perline=8&theme=dark"/>
 
 ---
 
