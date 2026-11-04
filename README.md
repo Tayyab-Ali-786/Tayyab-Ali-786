@@ -114,11 +114,10 @@ I'm a **Full-Stack Developer and Real-Time Video Streaming Engineer**. One side 
 <img src="assets/svg/headings/activity.svg" width="100%" alt="06 On GitHub"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tayyab-Ali-786&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&bg_color=000000&title_color=FFFFFF&icon_color=A3A3A3&text_color=D4D4D4&ring_color=FFFFFF" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-Ali-786&layout=compact&hide_border=true&border_radius=18&bg_color=000000&title_color=FFFFFF&text_color=D4D4D4&langs_count=8" height="170" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&border_radius=18&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A3A3A3&dates=737373&stroke=262626" width="80%" alt="GitHub streak"/>
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Tayyab-Ali-786&hide_border=true&border_radius=18&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A3A3A3&dates=737373&stroke=262626" width="80%" alt="GitHub streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyab-Ali-786&bg_color=000000&color=A3A3A3&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&radius=18" width="100%" alt="Contribution activity"/>
 </p>
 
 <picture>
