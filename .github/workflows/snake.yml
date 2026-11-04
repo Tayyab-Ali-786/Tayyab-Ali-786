@@ -19,6 +19,8 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.svg
+            dist/snake-dark.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#111111,#3a3a3a,#6b6b6b,#a3a3a3,#ffffff
+            dist/snake-light.svg?palette=github-light&color_snake=#000000&color_dots=#ebedf0,#c4c4c4,#8a8a8a,#4d4d4d,#000000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: push to output branch
